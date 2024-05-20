@@ -35,8 +35,8 @@ $config['base_url'] .= str_replace(basename($_SERVER['SCRIPT_NAME']),"",$_SERVER
 | www.pudin.my.id
 */
 
-$config['recaptcha_site_key'] 	= '';
-$config['recaptcha_secret_key'] = '';
+$config['recaptcha_site_key'] 	= '6Lfktd8pAAAAAC_GgU71hKev0ReAZb2pnlqokAhF';
+$config['recaptcha_secret_key'] = '6Lfktd8pAAAAACJmR2YEHzrorDNofyhXn3G8uR7w';
 
 /*
 |--------------------------------------------------------------------------
